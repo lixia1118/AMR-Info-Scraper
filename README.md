@@ -4,3 +4,5 @@
 + 第一次运行，会生成 AMR ToC/checkpoint.json 文件
 + 如果想从头开始爬取，需要删除 AMR ToC/checkpoint.json 文件
 + 断点信息会自动保存在 AMR ToC/checkpoint.json 文件中
+
+若用EXCEL直接打开爬取结果，内容的标点符号会显示乱码，故经过txt转为正常的xlsx格式
